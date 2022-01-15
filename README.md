@@ -1,3 +1,3 @@
 # Compute-Data-Analysis-in-Power-System
 
-This repo is for our course namely, computational data analysis in power system 
+This repo is for our course: computational data analysis in power system 
